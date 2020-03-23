@@ -1,1 +1,1 @@
-# Course-Planner-3.0
+# Course-Planner-2.0
